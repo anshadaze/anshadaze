@@ -32,4 +32,4 @@
 </p>
 
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/anshadaze?theme=dark)
+![Leetcode Stats](https://leetcard.jacoblin.cool/anshadaze?theme=wtf)
